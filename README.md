@@ -15,5 +15,5 @@ Run them using a browser console or with Node.js.
 
 ## Author
 
-Created by [Your Name]
+Created by [Shelmith Wambui]
 # code-challenge-1
